@@ -1,0 +1,174 @@
+body {
+    background-color: maroon;
+    color: white;
+    font-size: 15px;
+    font-family: papyrus, serif;
+    text-align: justify;
+    margin: 0px;
+}
+
+.wrapper {
+  margin: 5px;
+}
+
+header {
+    background-image: url("https://lh3.googleusercontent.com/5FzXr3JzXGggDpEfSIBZ21fM4ZiCyxQpjm-CoCzp8tq4S2mKq6to8-pOJFHdPqh2Sdu7ylTGdfcbjfPavLmqXUUG-dUwqZ13Mw9VKTIjw9vd4BbqnGihFu0-NQjzWAkuIcRM5wlqrwa9l_Z5atr_9RzkNXlWAmP0qlL8aAQ9yJ8U0UYxbLAJcAT5st_TVSMAZWkA2t-5etfBt980ArYUUTgXiCtbliPhgj9gLflREWV2hK_saLLknYo5i7Xu7E1a9t6aUVrPdCM03jsdYQraomAXx5Ou7VpSIoLZ0wotxiHSVCUwauUgFe404fQloKWm8uZWgjYQ8nQ5IMSdUz3rGxwpULoOUeQcpM5piNh94gZa9Xu1-AL3vX9ACOT2wmTYLGPts37lHKiu8UaGnn3m29LTU9PEIp2OI-OPKQST3Eo6G5k0yniNKTvurzwuVpWvBwQ6wAZCOV76fEseSNgZiGlI9KKwfO9TyPVdxjZostbw96_Fb3CwdRvzuNkiMSf32oeKwTgNV44u5pmE7u7B7swy8S49y_YBL_9sz-9CfX3HnF9OqPXSyPeQM7KkZNyXogiRBIFkYUH-ODF2w8upXhK6nRljjprQNSW_X1-zzb4poSEXlnc3-4YAA5Njaeb4e-KcSaJHkLzUtRhV0kNi-ygD2rbZsphzgs6pHA9GKHSRKvGRGSIifpGFescdp5nzZ4aFRu_8jD8h_bOTpQ3mMSjxXA=w959-h438-no?authuser=0");
+    background-color: dimgrey;
+    background-size: cover;
+    color: maroon;
+    padding: 1px;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Cardo', serif;
+    text-transform: uppercase;
+    text-shadow: 2px 12px 5px black;
+}
+
+td {
+  border: 3px solid black;
+  font-size: 27px;
+  padding: 2px;
+  text-transform: capitalize;
+  font-family: papyrus, serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    height: 550px;
+    background-color: #787878;
+    color: black;
+    margin: 0px 0px 12px 0px;
+    float: left;
+}
+
+th {
+    text-transform: uppercase;
+    border: 3px solid black;
+    font-family: 'Cardo', serif;
+    font-size: 15px;
+    
+}
+
+thead {
+    text-align: center;
+    color: maroon;
+    background-color: dimgrey;
+    
+}
+
+details {
+    color: black;
+}
+
+form {
+    float: left;
+    width: 40%;
+    text-align: justify;
+    border: 10px outset dimgrey ;
+    border-width: thick;
+    padding: 10px;
+    margin-top: 2px;
+    margin-left: 25px;
+    margin-bottom: inherit;
+    background-color: #787878;
+    position: relative;
+    bottom: inherit;
+    
+}
+
+.container {
+margin: 15px;
+}
+
+.footer-container {
+  background-color: dimgrey;
+}
+
+.part2 {
+    float: right;
+    width: 50%;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 20px;
+    
+}
+
+figcaption {
+  float: right;
+  font-size: 10px;
+}
+
+#paragraph {
+    margin-top: 0;
+    position: relative;
+    right: 5px;
+    color: white;
+}
+
+#activitiesschedule {
+    margin: auto;
+}
+
+span {
+    color: white;
+}
+
+.img2 {
+    margin-top:40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+   border: 10px inset #9D2C2C;
+    display: block;
+    width: 30%;
+   position: relative;
+}
+    
+.page2image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.voucher {
+    text-align: center;
+}
+
+footer {
+  clear: both;
+  position: relative;
+  top: 100%;
+  width: 100%;
+  background-color: #787878;
+  
+}
+details {
+    margin-left: 10px;
+}
+
+::placeholder {
+    color: #E59090;
+}
+
+button[type=submit], input[type=date], button{
+    color: #E59090;
+    background-color: white;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #787878;
+}
+
+<!-- 
+
+-->
